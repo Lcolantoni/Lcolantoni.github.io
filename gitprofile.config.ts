@@ -29,7 +29,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'lucas-colantoni',
+    linkedin: 'lucas-colantoni-39b196153',
     researchGate: '',
     facebook: '',
     instagram: '',
